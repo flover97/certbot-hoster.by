@@ -1,0 +1,10 @@
+# секреты
+.env
+*.env
+!*.env.example
+mail.env
+
+# мусор
+*.log
+*.swp
+*~
